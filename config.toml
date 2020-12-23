@@ -1,0 +1,90 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Pei-Hsun Hsieh"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+title = "Pei-Hsun Hsieh"
+author = "Pei-Hsun Hsieh"
+description = "Doctoral student"
+institution = "Department of Political Science, Stony Brook University"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = []
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+displayMode = "dark"
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:pei-hsun.hsieh@stonybrook.edu"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/peihsunhsieh"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/PeiHsunHsieh"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Bio"
+  identifier = "_index"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 200
+  identifier = "CV"
+  url = "/CV/"
+
+#  [[menu.main]]
+#  name = "About"
+#  weight = 300
+#  identifier = "about"
+#  url = "/about/"
+
+#  [[menu.main]]
+#  name = "Contact"
+#  weight = 300
+#  identifier = "contact"
+#  url = "/contact/"
