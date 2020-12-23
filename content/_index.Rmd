@@ -3,9 +3,20 @@ title: Bio
 date: '2020-12-23'
 ---
 
-I am a doctoral student at Stony Brook University. I use behavioral game theory, experimental social science, agent-based computational modeling, and causl inference methods to study fairness and social preferences, information updating, and public opinion. I focus on determining how a person’s beliefs, about how others will and should behave, shape decisions in different contexts like redistribution, cooperation, and political behaviors.   
+I am a doctoral student at Stony Brook University in the department of political science. I use behavioral game theory, experimental social science, agent-based computational modeling, and causl inference methods to study fairness and social preferences, information updating, and public opinion. I focus on determining how a person’s beliefs, about how others will and should behave, shape decisions in different contexts like redistribution, cooperation, and political behaviors.  
 
 You can download my CV [here](_index_files/CV.pdf).
+
+## Interests
+* Experimental social science
+* Behavioral economics
+* Behavioral game theory
+* Causal inference
+* Agent-based computational modeling
+* Social preferences and inequality
+* Learning
+
+
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
 

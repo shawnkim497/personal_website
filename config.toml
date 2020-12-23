@@ -31,7 +31,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = []
-images = ["images/site-feature-image.png"]
+images = []
 doNotLoadAnimations = false
 displayMode = "dark"
 # Form Spree Contact Form
@@ -75,7 +75,7 @@ url = "https://twitter.com/PeiHsunHsieh"
   name = "CV"
   weight = 200
   identifier = "CV"
-  url = "/CV/"
+  url = "_index_files/CV.pdf"
 
 #  [[menu.main]]
 #  name = "About"
