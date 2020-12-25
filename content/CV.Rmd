@@ -41,6 +41,6 @@ Teaching Assistant, National Taiwan University, Taipei, Taiwan
 Manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
 
 # Computer Skills
-**Writing experiment interface:** oTree (Python package), Javascript
-**Data analysis:** R language, Python, STATA
-**Simulation:** Python, R language
++ **Writing experiment interface:** oTree (Python package), Javascript
++ **Data analysis:** R language, Python, STATA
++ **Simulation:** Python, R language
