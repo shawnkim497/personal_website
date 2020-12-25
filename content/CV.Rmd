@@ -35,7 +35,7 @@ Teaching Assistant, National Taiwan University, Taipei, Taiwan
 
 - Topics in Neuroeconomics [*spring 2016*]{style="float:right"}
 - Principle of Economics (Recitation) [*fall spring 2014*]{style="float:right"}
-- Microeconomics [*fall spring 20130*]{style="float:right"}
+- Microeconomics [*fall spring 2013*]{style="float:right"}
 
 # Service
 Manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
