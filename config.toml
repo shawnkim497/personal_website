@@ -72,19 +72,19 @@ url = "https://twitter.com/PeiHsunHsieh"
   url = "/"
 
   [[menu.main]]
-  name = "CV"
+  name = "Work in progress"
   weight = 200
+  identifier = "work_in_progress"
+  url = "/work_in_progress/"
+
+  [[menu.main]]
+  name = "Teaching"
+  weight = 300
+  identifier = "teaching"
+  url = "/teaching/"
+  
+  [[menu.main]]
+  name = "CV"
+  weight = 400
   identifier = "CV"
-  url = "_index_files/CV.pdf"
-
-#  [[menu.main]]
-#  name = "About"
-#  weight = 300
-#  identifier = "about"
-#  url = "/about/"
-
-#  [[menu.main]]
-#  name = "Contact"
-#  weight = 300
-#  identifier = "contact"
-#  url = "/contact/"
+  url = "/CV/"  

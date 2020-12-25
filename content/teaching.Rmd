@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+author: "Pei-Hsun Hsieh"
+date: "12/24/2020"
+---
+
+
+# 2020
+## summer
+* POL101 - World politics (online)
+
+# 2019
+In the Fall Semester of 2019, [Justin Dollman](https://jpauldoll.com/) and I enterprisingly developed and delivered the 7th-Floor Data Science lectures to fellow graduate students in the social sciences. Click here to see the building-famous [flyer](/teaching_files/seven-ds.pdf).

@@ -1,8 +1,46 @@
 ---
-title: "CV"
+title: CV
 author: "Pei-Hsun Hsieh"
 date: "12/23/2020"
-output: html_document
+hidetitle: true
 ---
 
+**You can download pdf file [here](/CV_files/CV.pdf).**
 
+# Education
+Ph.D. in political science, Stony Brook University, New York, U.S.A.  [*2018.09 \- present*]{style="float:right"}
+
+M.A. in political science, Stony Brook University, New York, U.S.A. [*2017.09 \- 2018.06*]{style="float:right"}
+
+M.A. in Economics, National Taiwan University, Taipei, Taiwan  [*2013.09 \- 2015.06*]{style="float:right"}
+
+B.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan  [*2007.09 \- 2012.06*]{style="float:right"}
+
+
+# Working paper
+"Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences"
+*With Dr. Reuben Kline*
+ 
+# Conference presentation
+**2020:**
+
+* SPSA: Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences (*With Dr. Reuben Kline*)
+
+# Teaching experience
+Instructor, Stony Brook University, U.S.
+
+- World politics (online) [*summer 2020*]{style="float:right"}
+
+Teaching Assistant, National Taiwan University, Taipei, Taiwan
+
+- Topics in Neuroeconomics [*spring 2016*]{style="float:right"}
+- Principle of Economics (Recitation) [*fall spring 2014*]{style="float:right"}
+- Microeconomics [*fall spring 20130*]{style="float:right"}
+
+# Service
+Manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
+
+# Computer Skills
+**Writing experiment interface:** oTree (Python package), Javascript
+**Data analysis:** R language, Python, STATA
+**Simulation:** Python, R language
