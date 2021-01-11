@@ -2,17 +2,19 @@
     <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
         <div class="post-content">
             <div class="post-title">
-                <h3>{{ .Title }}</h3>
-                {{ if eq .Type "post"}}
-                    <div class="info">
-                        <em class="fas fa-calendar-day"></em>
-                        <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                        <em class="fas fa-stopwatch"></em>
-                        <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
-                    </div>
+                {{ if (eq .Params.showtitle true) }}
+                    <h3>{{ .Title }}</h3>
                 {{ end }}
-            </div>
-
+                    {{ if eq .Type "post"}}
+                        <div class="info">
+                            <em class="fas fa-calendar-day"></em>
+                            <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+                            <em class="fas fa-stopwatch"></em>
+                            <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+                        </div>
+                    {{ end }}
+                </div>
+            
             {{ .Content }}
 
             {{- if (eq .Params.contact true) -}}

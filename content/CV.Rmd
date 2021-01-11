@@ -2,7 +2,7 @@
 title: CV
 author: "Pei-Hsun Hsieh"
 date: "12/23/2020"
-hidetitle: true
+showtitle: false
 ---
 
 **You can download pdf file [here](/CV_files/CV.pdf).**
@@ -20,6 +20,11 @@ B.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan  
 # Working paper
 "Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences"
 *With Dr. Reuben Kline*
+
+# Additional training
+**International Foundation for Research in Experimental Economics (IFREE)** [*January 2021*]{style="float:right"} <br>
+Graduate Student Workshop <br>
+Chapman University
  
 # Conference presentation
 **2020:**
@@ -38,9 +43,9 @@ Teaching Assistant, National Taiwan University, Taipei, Taiwan
 - Microeconomics [*fall spring 2013*]{style="float:right"}
 
 # Service
-Manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
+Lab manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
 
 # Computer Skills
-+ **Writing experiment interface:** oTree (Python package), Javascript
-+ **Data analysis:** R language, Python, STATA
-+ **Simulation:** Python, R language
++ **Writing experiment interface:** oTree (Python library), Javascript
++ **Data analysis and machine learning:** R language, Python, STATA
++ **Agent-based modeling:** Python, R language

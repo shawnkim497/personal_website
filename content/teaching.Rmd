@@ -2,6 +2,7 @@
 title: "Teaching"
 author: "Pei-Hsun Hsieh"
 date: "12/24/2020"
+showtitle: true
 ---
 
 # 2020

@@ -8,12 +8,11 @@ I am a doctoral student at Stony Brook University in the [department of politica
 
 ## Interests
 * Experimental social science
-* Behavioral economics
-* Behavioral game theory
+* Behavioral economics and behavioral game theory
 * Causal inference
 * Agent-based computational modeling
 * Social preferences and inequality
-* Learning
+* Information updating (Bayesian learning and information updating)
 
 
 <!--

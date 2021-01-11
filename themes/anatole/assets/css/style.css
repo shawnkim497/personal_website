@@ -178,12 +178,12 @@ a:active {
 .content {
     height: auto;
     float: right;
-    width: 60%;
+    width: 65%;
     margin-top: 60px;
 }
 
 .page-top {
-    width: 60%;
+    width: 65%;
     position: fixed;
     right: 0;
     z-index: 3;
@@ -255,7 +255,7 @@ a:active {
 }
 
 .sidebar {
-    width: 40%;
+    width: 35%;
     -webkit-background-size: cover;
     background-size: cover;
     background-color: var(--bg-color);
@@ -340,7 +340,7 @@ a:active {
 .post .post-title h1 {
     text-transform: uppercase;
     font-size: 30px;
-    letter-spacing: 5px;
+    /*letter-spacing: 5px;*/
     line-height: 1;
 }
 
@@ -392,6 +392,11 @@ a:active {
 .post .post-content h4 {
     /* color: var(--heading-color); */
     font-size: 16px;
+}
+
+.post .post-content h5 {
+    /* color: var(--heading-color); */
+    font-size: 10px;
 }
 
 .post .post-content img {
