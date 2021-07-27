@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Pei-Hsun Hsieh"
 author = "Pei-Hsun Hsieh"
 description = "Doctoral student"
-institution = "Department of Political Science, Stony Brook University"
+institute = "Stony Brook University"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -61,6 +61,11 @@ icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/PeiHsunHsieh"
 
+[[params.socialIcons]]
+icon = "fab fa-researchgate"
+title = "researchgate"
+url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
+
 ## Menu items
 
 [menu]
@@ -72,10 +77,10 @@ url = "https://twitter.com/PeiHsunHsieh"
   url = "/"
 
   [[menu.main]]
-  name = "Work in progress"
+  name = "Research"
   weight = 200
-  identifier = "work_in_progress"
-  url = "/work_in_progress/"
+  identifier = "research"
+  url = "/research/"
 
   [[menu.main]]
   name = "Teaching"

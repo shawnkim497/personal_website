@@ -5,10 +5,11 @@ date: "12/24/2020"
 showtitle: true
 ---
 
+# 2021
+## Spring
+* Teaching assistance of Applied Data Analysis II (Doctoral program)
+
 # 2020
 
 ## Summer
 * POL101 - World politics (online)
-
-# 2019
-In the Fall Semester of 2019, [Justin Dollman](https://jpauldoll.com/) and I developed and delivered the 7th-Floor Data Science lectures to fellow graduate students in the social sciences. Click here to see the [flyer](/teaching_files/seven-ds.pdf).
