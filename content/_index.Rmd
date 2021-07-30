@@ -9,7 +9,7 @@ I am a doctoral student at Stony Brook University in the [department of politica
 ## Interests
 * Behavioral political economy
 * Experimental social science
-* Formal and agent-based computational modeling
+* Formal and agent-based modeling
 * Application of machine learning
 * Inequality and redistribution
 * Cooperation

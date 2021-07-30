@@ -6,6 +6,9 @@ showtitle: true
 ---
 
 # 2021
+## Summer
+POL101 - World politics (online)
+
 ## Spring
 * Teaching assistance of Applied Data Analysis II (Doctoral program)
 
