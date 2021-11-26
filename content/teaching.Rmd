@@ -2,17 +2,44 @@
 title: "Teaching"
 author: "Pei-Hsun Hsieh"
 date: "12/24/2020"
-showtitle: true
+showtitle: false
 ---
-
-# 2021
-## Summer
-POL101 - World politics (online)
-
-## Spring
-* Teaching assistance of Applied Data Analysis II (Doctoral program)
-
-# 2020
-
-## Summer
+# Instructor 
+## 2021
+### Winter
+* Math camp for Ph.D. students
 * POL101 - World politics (online)
+
+### Summer
+* POL101 - World politics (online)
+
+## 2020
+### Summer
+* POL101 - World politics (online)
+
+# Teaching Assistance
+## 2021
+### Fall
+* POL 602 - Applied Data Analysis I (Ph.D.) *(Instructor: John Ryan)*
+
+### Spring
+* POL 603 - Applied Data Analysis II (Ph.D.) *(Instructor: Michael Peress)*
+
+## 2016
+### Spring (at National Taiwan University)
+* Topics in Neuroeconomics *(Instructor: Chen-Ying Huang)*
+
+## 2015
+### Spring 
+* Principle of Economics (with recitation) *(Instructor: Ming-Ching Luoh)*
+
+## 2014
+### Fall
+* Principle of Economics (with recitation) *(Instructor: Ming-Ching Luoh)*
+
+### Spring
+* Microeconomics *(Instructor: Hui-wen Koo)*
+
+## 2013
+### Fall
+* Microeconomics *(Instructor: Hui-wen Koo)*

@@ -2,15 +2,24 @@
 title: "research"
 author: "Pei-Hsun Hsieh"
 date: "12/24/2020"
-showtitle: true
+showtitle: false
 ---
 
 # Work in progress
+ <div style="font-size:0.7em">
 
-**Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences** *(With Reuben Kline)*
-
+**COVID-19, climate change salience, and the finite pool of worry among Twitter users** *(with Oleg Smirnov and Anshul Vemuri)*
 <details>
-  <summary>Abstract (click to expand)</summary>
+<summary>Abstract (click to expand)</summary>
+<br>
+Anthropogenic climate change is one of the most important problems facing the world today. However, the urgency and salience of climate change may decrease in the context of other global crises such as the global spread of the COVID-19 virus. Recently, Evensen et al. (PNAS 2021) studied the effect of the pandemic on UK climate change perceptions. Using the idea of a “finite pool of worry” introduced by Weber (2015), the authors found that worry about climate change did not significantly decrease during the early months of the COVID-19 pandemic. We explore the salience of “climate change” discussions on Twitter during 2019-2021 and, to the contrary, find that the “finite pool of worry” is real. As the number of cases and deaths increased in the United States, climate change discussion significantly decreased on Twitter. These results continue to hold even if we account for the amount of news coverage of both topics. One important implication of our findings is the fact that the short-term worry about COVID-19 pandemic may undermine the long-term prospects of successful climate change mitigation.
+</details>
+<br>
+**Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences** *(With Reuben Kline)*
+<details>
+<summary>Abstract (click to expand)</summary>
   
 </details>
 
+**Partisan Public Goods Game** *(with Andrew Delton and Elias Shammas)*
+</div>

@@ -21,19 +21,21 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Pei-Hsun Hsieh"
 author = "Pei-Hsun Hsieh"
-description = "Doctoral student"
+description = "PhD Candidate"
 institute = "Stony Brook University"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+# customCss = ["/themes/anatole/assets/css/custom.css", "/themes/anatole/assets/css/styles.css"]
+# cstomCss = ["css/styles.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = []
 images = []
 doNotLoadAnimations = false
 displayMode = "dark"
+contentratio = 0.75
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
@@ -71,7 +73,7 @@ url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
 [menu]
 
   [[menu.main]]
-  name = "Bio"
+  name = "About"
   identifier = "_index"
   weight = 100
   url = "/"
@@ -93,3 +95,8 @@ url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
   weight = 400
   identifier = "CV"
   url = "/CV/"  
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"  

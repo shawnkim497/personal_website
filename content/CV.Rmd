@@ -21,6 +21,10 @@ B.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan  
 "Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences"
 *With Dr. Reuben Kline*
 
+"COVID-19, climate change salience, and the finite pool of worry among Twitter users" *with Oleg Smirnov and Anshul Vemuri*
+
+"Partisan Public Goods Game" *with Andrew Delton and Elias Shammas*
+
 # Additional training
 **International Foundation for Research in Experimental Economics (IFREE)** [*January 2021*]{style="float:right"} <br>
 Graduate Student Workshop <br>
@@ -34,7 +38,13 @@ Chapman University
 # Teaching experience
 Instructor, Stony Brook University, U.S.
 
-- World politics (online) [*summer 2020*]{style="float:right"}
+- POL 101 - World politics (online) [*summer 2021*]{style="float:right"}
+- POL 101 - World politics (online) [*summer 2020*]{style="float:right"}
+
+Teaching Assistant, Stony Brook University, U.S.
+
+- POL 602 - Applied Data Analysis I (Ph.D.) [*Fall 2021*]{style="float:right"}
+- POL 603 - Applied Data Analysis II (Ph.D.) [*Spring 2021*]{style="float:right"}
 
 Teaching Assistant, National Taiwan University, Taipei, Taiwan
 
@@ -46,6 +56,6 @@ Teaching Assistant, National Taiwan University, Taipei, Taiwan
 Lab manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
 
 # Computer Skills
-+ **Writing experiment interface:** oTree (Python library)
 + **Data analysis and machine learning:** R language, Python, STATA
++ **Writing experiment interface:** oTree (Python library)
 + **Agent-based modeling:** Python, R language
