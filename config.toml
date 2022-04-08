@@ -28,6 +28,7 @@ keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
 # customCss = ["/themes/anatole/assets/css/custom.css", "/themes/anatole/assets/css/styles.css"]
+# customCss = ["css/custom.css"]
 # cstomCss = ["css/styles.css"]
 # example ["js/custom.js"]
 customJs = [] 

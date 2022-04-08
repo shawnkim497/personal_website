@@ -5,21 +5,28 @@ date: "12/24/2020"
 showtitle: false
 ---
 
-# Work in progress
- <div style="font-size:0.7em">
+# Working papers
 
-**COVID-19, climate change salience, and the finite pool of worry among Twitter users** *(with Oleg Smirnov and Anshul Vemuri)*
+<div style="font-size:0.7em">
+
+**COVID-19, climate change, and the finite pool of worry in 2019-2021 Twitter discussions** *(with Oleg Smirnov)*
 <details>
 <summary>Abstract (click to expand)</summary>
 <br>
-Anthropogenic climate change is one of the most important problems facing the world today. However, the urgency and salience of climate change may decrease in the context of other global crises such as the global spread of the COVID-19 virus. Recently, Evensen et al. (PNAS 2021) studied the effect of the pandemic on UK climate change perceptions. Using the idea of a “finite pool of worry” introduced by Weber (2015), the authors found that worry about climate change did not significantly decrease during the early months of the COVID-19 pandemic. We explore the salience of “climate change” discussions on Twitter during 2019-2021 and, to the contrary, find that the “finite pool of worry” is real. As the number of cases and deaths increased in the United States, climate change discussion significantly decreased on Twitter. These results continue to hold even if we account for the amount of news coverage of both topics. One important implication of our findings is the fact that the short-term worry about COVID-19 pandemic may undermine the long-term prospects of successful climate change mitigation.
+Climate change mitigation has been one of the most salient issues facing the world for the past three decades. For the past two years, however, the global policy attention has been partially diverted to address the COVID-19 pandemic. Here, we explore the impact of the pandemic on the frequency and content of climate change discussions on Twitter for the past three years. Consistent with the “finite pool of worry” hypothesis, a larger number of COVID-19 cases and deaths is associated with a smaller number of “climate change” tweets – despite the growth of Twitter userbase and despite a larger number of climate change stories in traditional media in 2021. Furthermore, the pandemic numbers appear to affect the content of climate change posts, by decreasing the negative sentiment and emotions related to worry and anxiety (fear and anger) and increasing the positive sentiment as well as emotions related to depression (sadness).
 </details>
 <br>
-**Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences** *(With Reuben Kline)*
+
+**Does the deservingness heuristic explain the effects of effort, luck, and need in a redistribution experiment?** *(With Reuben Kline)* (under review)
 <details>
 <summary>Abstract (click to expand)</summary>
-  
+<br>
+We investigate three factors considered crucial in assessing the deservingness of a recipient of income redistribution: effort, luck, and need. Individuals rely on effort cues to assess deservingness, but need and effort push deservingness in opposite directions. More effort generally results in lower need. But unlucky individuals can be needy, despite exerting effort. Based on a model of conditional altruism, we design a real-effort experiment with two conditions: one where luck is observable to the redistributor, and one where luck is unobservable. Comparative static predictions derived from the model were pre-registered as hypotheses. When luck is observable, responses to both need and effort are consistent with the predictions of the model, and we observe clearly identifiable types: those who are insensitive to effort and respond only to need, and others who respond exclusively to effort. Without information about luck, however, the effort cue was obscured and the need effect predominated.  
 </details>
+<br>
 
-**Partisan Public Goods Game** *(with Andrew Delton and Elias Shammas)*
 </div>
+
+
+
+

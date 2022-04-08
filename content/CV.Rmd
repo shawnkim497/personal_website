@@ -19,11 +19,10 @@ B.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan  
 
 # Working paper
 "Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences"
-*With Dr. Reuben Kline*
+*With Dr. Reuben Kline* (under review)
 
 "COVID-19, climate change salience, and the finite pool of worry among Twitter users" *with Oleg Smirnov and Anshul Vemuri*
 
-"Partisan Public Goods Game" *with Andrew Delton and Elias Shammas*
 
 # Additional training
 **International Foundation for Research in Experimental Economics (IFREE)** [*January 2021*]{style="float:right"} <br>
@@ -34,6 +33,9 @@ Chapman University
 **2020:**
 
 * SPSA: Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences (*With Dr. Reuben Kline*)
+
+# Fellowships, Grants, and Awards
+2020 SPSA Travel Award
 
 # Teaching experience
 Instructor, Stony Brook University, U.S.
