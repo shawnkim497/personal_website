@@ -1,51 +1,58 @@
 ---
 title: CV
-author: "Pei-Hsun Hsieh"
+author: "Shawn Kim"
 date: "12/23/2020"
 showtitle: false
 ---
 
-**You can download pdf file [here](/CV_files/CV.pdf).**
+**You can download pdf file here.**
 
 # Education
-Ph.D. in political science, Stony Brook University, New York, U.S.A.  [*2018.09 \- present*]{style="float:right"}
+Ph.D. in political science, Stony Brook University, Stony Brook, NY, USA  [*2018 \- present*]{style="float:right"}
 
-M.A. in political science, Stony Brook University, New York, U.S.A. [*2017.09 \- 2018.06*]{style="float:right"}
-
-M.A. in Economics, National Taiwan University, Taipei, Taiwan  [*2013.09 \- 2015.06*]{style="float:right"}
-
-B.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan  [*2007.09 \- 2012.06*]{style="float:right"}
+B.A. in political science, University of Illinois at Urbana-Champaign, Urbana, IL, USA  [*2014 \- 2018*]{style="float:right"}
 
 
 # Working paper
-"Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences"
-*With Dr. Reuben Kline*
+"(Bounded) Political Friendship? Test of Panethnic Processes for Asians in the US" 
+
+"Political Consequences of Group Norm Exposure"
+*With Leonie Huddy*
+
+"Experimental Tests of Self-Reflection on Pro-sociality in Incentivized Contexts"
+*With Pei-Hsun Hsieh*
 
 # Additional training
-**International Foundation for Research in Experimental Economics (IFREE)** [*January 2021*]{style="float:right"} <br>
-Graduate Student Workshop <br>
-Chapman University
+**Summer Institute of Political Psychology (SIPP)** [*2018*]{style="float:right"} <br>
+Stanford University
  
 # Conference presentation
-**2020:**
+**2022:**
 
-* SPSA: Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences (*With Dr. Reuben Kline*)
+* MPSA: (Bounded) Political Friendship? Test of Panethnic Processes for Asians in the US
 
 # Teaching experience
 Instructor, Stony Brook University, U.S.
+- American Political Ideology and Public Opinion [*Fall 2021*]{style="float:right"} <br>
+- Contemporary Race Relations in American Politics [*Fall 2022*]{style="float:right"} <br>
+- Social Networks and Politics [*Fall 2020; Winter 2021; Spring 2021; Summer 2021; Spring 2022; Summer 2022*]{style="float:right"}
 
-- World politics (online) [*summer 2020*]{style="float:right"}
+# Research and other experience
+Research assistant, Department of Political Science, Stony Brook University [*2018 \- 2020*]{style="float:right"} <br>
+Supervisor(s): Dr. H. Hannah Nam; Dr. John Barry Ryan; DR. Julian Wamble <br>
 
-Teaching Assistant, National Taiwan University, Taipei, Taiwan
+Research assistant, Cline Center for Democracy, University of Illinois at Urbana-Champaign [*2017*]{style="float:right"} <br>
+Supervisor(s): Dr. Avital Livny <br>
 
-- Topics in Neuroeconomics [*spring 2016*]{style="float:right"}
-- Principle of Economics (Recitation) [*fall spring 2014*]{style="float:right"}
-- Microeconomics [*fall spring 2013*]{style="float:right"}
+Lab assistant, Department of Political Science, University of Illinois at Urbana-Champaign [*2017*]{style="float:right"} <br>
+Supervisor(s): Dr. Aleksander Ksiazkiewicz <br>
 
-# Service
-Lab manager, Center for Behavioral Political Economy, Stony Brook University [*2020.09 \- present*]{style="float:right"}
+Legal intern, Champaign County Public Defender's Office [*2016*]{style="float:right"} <br>
+Supervisor(s): Benjamin W. Dyer <br>
+
+Legislative assistant, Assemblywoman Eun-Hee Kwon -- National Assembly of the Republic of Korea [*2015*]{style="float:right"} <br>
+Supervisor(s): Yoo-Jung Hong <br>
 
 # Computer Skills
 + **Writing experiment interface:** oTree (Python library)
-+ **Data analysis and machine learning:** R language, Python, STATA
-+ **Agent-based modeling:** Python, R language
++ **Data analysis:** R language, Python, Stata, SPSS

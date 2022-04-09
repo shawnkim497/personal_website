@@ -1,18 +1,41 @@
-{{ $js := resources.Get "js/jquery.js" }}
-{{ $secureJS := $js |  resources.Minify | resources.Fingerprint }}
-<script type="text/javascript"
-        src="{{ $secureJS.Permalink }}"
-        integrity="{{ $secureJS.Data.Integrity }}"
-        crossorigin="anonymous"></script>
-{{ $migrate := resources.Get "js/jquery-migrate.js" }}
-{{ $appear := resources.Get "js/jquery-appear.js" }}
-{{ $js := slice $migrate $appear | resources.Concat "js/bundle.js" }}
-{{ $secureJS := $js |  resources.Minify | resources.Fingerprint }}
-<script type="text/javascript"
-        src="{{ $secureJS.Permalink }}"
-        integrity="{{ $secureJS.Data.Integrity }}"
-        crossorigin="anonymous"></script>
+<footer class="footer footer--{{ .footerClassModifier }}">
+  <div class="by_farbox">
+    <ul class="footer__list">
+      <li class="footer__item">
+        &copy;
+        {{ if isset .context.Site.Params "copyright" }}
+          {{ replace .context.Site.Params.copyright "{{ YEAR }}" (now.Format "2006") | markdownify }}
 
-{{- partial "medium-zoom.html" . -}}
-{{- partial "math.html" . -}}
-{{- template "_internal/google_analytics_async.html" . -}}
+        {{ else }}
+          {{ .context.Site.Params.author }}
+          {{ now.Format "2006" }}
+
+
+        {{ end }}
+      </li>
+      {{ range .context.Site.Menus.footer }}
+        <li class="footer__item">
+          <a
+            href="{{ .URL }}"
+            {{ if strings.HasPrefix .URL "http" }}
+              target="_blank" rel="noopener noreferrer"
+
+            {{ end }}
+            title="{{ .Title }}"
+          >
+            {{ .Name }}
+          </a>
+        </li>
+
+      {{ end }}
+    </ul>
+  </div>
+</footer>
+{{- partial "medium-zoom.html" .context -}}
+{{- partial "math.html" .context -}}
+{{- template "_internal/google_analytics_async.html" .context -}}
+{{- if and (hugo.IsProduction) (.context.Site.Params.gtagId) -}}
+  {{ partial "google-analytics-gtag-async.html" .context }}
+
+
+{{- end -}}

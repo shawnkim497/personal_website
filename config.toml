@@ -1,7 +1,7 @@
-baseURL = "https://phsieh.com/"
+baseURL = "https://www.suhwanshawnkim.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Pei-Hsun Hsieh"
+title = "Website of Shawn Kim"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -19,21 +19,24 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Pei-Hsun Hsieh"
-author = "Pei-Hsun Hsieh"
-description = "Doctoral student"
+title = "Shawn Kim"
+author = "Shawn Kim"
+description = "PhD Candidate"
 institute = "Stony Brook University"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/lu_su.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+# customCss = ["/themes/anatole/assets/css/custom.css", "/themes/anatole/assets/css/styles.css"]
+# customCss = ["css/custom.css"]
+# cstomCss = ["css/styles.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = []
 images = []
 doNotLoadAnimations = false
 displayMode = "dark"
+contentratio = 0.75
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
@@ -49,29 +52,29 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:pei-hsun.hsieh@stonybrook.edu"
+url = "mailto:suhwan.kim.1@stonybrook.edu"
 
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/peihsunhsieh"
+#[[params.socialIcons]]
+#icon = "fab fa-github"
+#title = "GitHub"
+#url = "https://github.com/peihsunhsieh"
 
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "twitter"
-url = "https://twitter.com/PeiHsunHsieh"
+#[[params.socialIcons]]
+#icon = "fab fa-twitter"
+#title = "twitter"
+#url = "https://twitter.com/PeiHsunHsieh"
 
-[[params.socialIcons]]
-icon = "fab fa-researchgate"
-title = "researchgate"
-url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
+#[[params.socialIcons]]
+#icon = "fab fa-researchgate"
+#title = "researchgate"
+#url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
 
 ## Menu items
 
 [menu]
 
   [[menu.main]]
-  name = "Bio"
+  name = "About"
   identifier = "_index"
   weight = 100
   url = "/"
@@ -93,3 +96,8 @@ url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
   weight = 400
   identifier = "CV"
   url = "/CV/"  
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"  

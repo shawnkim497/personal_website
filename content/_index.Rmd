@@ -1,18 +1,12 @@
 ---
-title: Bio
+title: "About"
 date: '2021-05-21'
 ---
+<p>
+Excessively invested follower of the Seattle Seahawks, patient connoisseur of the Seattle Mariners baseball, impartial critic of the Houston Trash Bins, devotee of Pokémon, and butler of two cats.
+</p>
 
-I am a doctoral student at Stony Brook University in the [department of political science](https://www.stonybrook.edu/polsci/). I am primarily interested in behavioral political economy, "the psychologically informed, economic analysis of behavior and its effects in the political arena," as Schnellenbach & Schubert (2015) defined. I use a variety of methods, including experiments, formal modeling, agent-based modeling, and machine learning. In addition, I focus on determining how a person's belief about how others will and should behave shapes decisions in different contexts like redistribution, cooperation, and other political behaviors. I am also the  [Center for Behavioral Political Economy](https://www.stonybrook.edu/commcms/cbpe/) lab manager at Stony Brook University.
-
-
-## Interests
-* Behavioral political economy
-* Experimental social science
-* Formal and agent-based modeling
-* Application of machine learning
-* Inequality and redistribution
-* Cooperation
+Current PhD candidate in the [**department of political science**](https://www.stonybrook.edu/polsci/) at Stony Brook University.
 
 
 

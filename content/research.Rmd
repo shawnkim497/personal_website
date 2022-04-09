@@ -1,16 +1,45 @@
 ---
 title: "research"
-author: "Pei-Hsun Hsieh"
+author: "Shawn Kim"
 date: "12/24/2020"
-showtitle: true
+showtitle: false
 ---
 
-# Work in progress
+# Working papers
 
-**Equality and Equity: How Equality and Deservingness Shape our Redistributive Preferences** *(With Reuben Kline)*
+**(Bounded) Political Friendship? Test of Panethnic Processes for Asian in the US** *(Presented at the 2022 Annual Meeting of Midwest Political Science Association)*
 
 <details>
   <summary>Abstract (click to expand)</summary>
   
 </details>
 
+**Political Consequences of Group Norm Exposure** *(w/ Leonie Huddy)*
+
+<details>
+  <summary>Abstract (click to expand)</summary>
+  
+</details>
+
+**Experimental Tests of Self-Reflection on Pro-sociality in Incentivized Contexts** *(w/ Pei-Hsun Hsieh)*
+
+<details>
+  <summary>Abstract (click to expand)</summary>
+  
+</details>
+
+# Research interests
+
+**Political psychology**
+
+**Groups and identities**
+
+**Partisanship**
+
+**Race, ethnicity and politics**
+
+**Intergroup cooperation**
+
+**Social influence**
+
+**Experimental social science**

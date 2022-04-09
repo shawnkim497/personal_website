@@ -1,18 +1,19 @@
 ---
 title: "Teaching"
-author: "Pei-Hsun Hsieh"
+author: "Shawn Kim"
 date: "12/24/2020"
-showtitle: true
+showtitle: false
 ---
+# POL 344-American Political Ideology and Public Opinion
+## 2021 (Fall)
+### Instructor on Record
 
-# 2021
-## Summer
-POL101 - World politics (online)
+# POL 353-Contemporary Race Relations in American Politics
+## 2022 (Fall)
+### Instructor on Record
 
-## Spring
-* Teaching assistance of Applied Data Analysis II (Doctoral program)
-
-# 2020
-
-## Summer
-* POL101 - World politics (online)
+# POL 368-Social Networks and Politics
+## 2020 (Fall)
+## 2021 (Winter; Spring; Summer)
+## 2022 (Spring; Summer)
+### Instructor on Record
