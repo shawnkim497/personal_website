@@ -25,7 +25,7 @@ description = "PhD Candidate"
 institute = "Stony Brook University"
 profilePicture = "images/lu_su.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = ""
 # example ["css/custom.css"]
 # customCss = ["/themes/anatole/assets/css/custom.css", "/themes/anatole/assets/css/styles.css"]
 # customCss = ["css/custom.css"]
