@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 author: "Shawn Kim"
-date: "12/24/2020"
+date: "10/12/2022"
 showtitle: false
 ---
 # POL 344-American Political Ideology and Public Opinion
@@ -10,6 +10,7 @@ showtitle: false
 
 # POL 353-Contemporary Race Relations in American Politics
 ## 2022 (Fall)
+## 2023 (Spring - Scheduled)
 ### Instructor on Record
 
 # POL 368-Social Networks and Politics

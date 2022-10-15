@@ -1,30 +1,36 @@
 ---
 title: "research"
 author: "Shawn Kim"
-date: "12/24/2020"
+date: "10/12/2022"
 showtitle: false
 ---
 
-# Working papers
+# In Review
 
-**(Bounded) Political Friendship? Test of Panethnic Processes for Asian in the US** *(Presented at the 2022 Annual Meeting of Midwest Political Science Association)*
+**Under Threats We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans**
 
-**Political Consequences of Group Norm Exposure** *(w/ Leonie Huddy)*
+# Work in Progress
 
-**Experimental Tests of Self-Reflection on Pro-sociality in Incentivized Contexts** *(w/ Pei-Hsun Hsieh)*
+**What's In It for Us? Tests of Discrimination and Group Interests in Shaping Party Preferences among Asian Americans** *(Data collection ongoing)*
 
-# Research interests
+**Roots of Racial and Ethnic Identification among Asians in the US** *(Data analysis in progress)*
+
+**(Bounded) Political Friendships? Tests of Panethnic Processes for Asians in the US** *(Additional data collection Winter 2022)*
+
+# Research Interests
 
 **Political psychology**
 
-**Groups and identities**
+**American Politics**
 
-**Partisanship**
+**Experimental social science**
+
+**Groups and identities**
 
 **Race, ethnicity and politics**
 
 **Intergroup cooperation**
 
-**Social influence**
+**Partisanship**
 
-**Experimental social science**
+**Social influence**
