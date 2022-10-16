@@ -21,9 +21,10 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Shawn Kim"
 author = "Shawn Kim"
-description = "PhD Candidate"
+description = "Ph.D. Candidate"
 institute = "Stony Brook University"
-profilePicture = "images/lu_su.jpg"
+#profile = "images/lu_su.jpg"
+profilePicture = "images/w_lu2.jpg"
 keywords = ""
 favicon = ""
 # example ["css/custom.css"]
