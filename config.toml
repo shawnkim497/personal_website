@@ -2,6 +2,7 @@ baseURL = "https://www.suhwanshawnkim.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Shawn Kim"
+#relativeURLs = true
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -18,26 +19,34 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
 [params]
-title = "Shawn Kim"
-author = "Shawn Kim"
-description = "Ph.D. Candidate"
-institute = "Stony Brook University"
-#profile = "images/lu_su.jpg"
-profilePicture = "images/w_lu2.jpg"
-keywords = ""
-favicon = ""
+title = 'Shawn Kim'
+#relativeURLs = true
+author = 'Shawn Kim'
+description = """
+Seasoned Mariners & Seahawks connoisseur 
+Pokémon devotee 
+Butler of two cats 
+Political scientist
+REP researcher
+"""
+institute = "Ph.D. Candidate - Stony Brook Univeristy"
+profilePicture = "images/w_lu2.jpg" #"images/lu_su.jpg"
+#summary = "Example" #"seasoned Mariners and Seahawks connoisseur, Pokémon devotee, butler of two cats, political scientist"
+#favicon = ""
 # example ["css/custom.css"]
 # customCss = ["/themes/anatole/assets/css/custom.css", "/themes/anatole/assets/css/styles.css"]
 # customCss = ["css/custom.css"]
 # cstomCss = ["css/styles.css"]
 # example ["js/custom.js"]
-customJs = [] 
-mainSections = []
-images = []
+#customJs = [] 
+#mainSections = []
+#images = []
 doNotLoadAnimations = false
 displayMode = "dark"
-contentratio = 0.75
+contentratio = 0.65
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
@@ -55,20 +64,25 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:suhwan.kim.1@stonybrook.edu"
 
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "linkedin"
+url = "https://www.linkedin.com/in/shawn-suhwan-kim-4011b3a7/"
+
 #[[params.socialIcons]]
 #icon = "fab fa-github"
 #title = "GitHub"
-#url = "https://github.com/peihsunhsieh"
+#url = ""
 
 #[[params.socialIcons]]
 #icon = "fab fa-twitter"
 #title = "twitter"
-#url = "https://twitter.com/PeiHsunHsieh"
+#url = ""
 
 #[[params.socialIcons]]
 #icon = "fab fa-researchgate"
 #title = "researchgate"
-#url = "https://www.researchgate.net/profile/Pei-Hsun-Hsieh"
+#url = ""
 
 ## Menu items
 
@@ -102,3 +116,14 @@ url = "mailto:suhwan.kim.1@stonybrook.edu"
     category = "categories"
     series = "series"
     tag = "tags"  
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80  
