@@ -22,9 +22,9 @@ pygmentsCodefencesGuessSyntax = true
 # Localized dates requires Hugo version 0.87.0
 localizedDates = false
 [params]
-title = 'Shawn Kim'
+title = "Shawn Kim"
 #relativeURLs = true
-author = 'Shawn Kim'
+author = "Shawn Kim"
 description = """
 Seasoned Mariners & Seahawks connoisseur 
 Pokémon devotee 
