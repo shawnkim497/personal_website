@@ -33,7 +33,7 @@ Political scientist
 REP researcher
 """
 institute = "Ph.D. Candidate - Stony Brook Univeristy"
-profilePicture = "images/w_lu2.jpg" #"images/lu_su.jpg"
+profilePicture = "images/profile.jpg" #"images/lu_su.jpg"
 #summary = "Example" #"seasoned Mariners and Seahawks connoisseur, Pokémon devotee, butler of two cats, political scientist"
 #favicon = ""
 # example ["css/custom.css"]
