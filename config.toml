@@ -14,7 +14,7 @@ enableRobotsTXT = true
 # Google Analytics
 #googleAnalytics = "UA-123-45"
 
-
+[params]
 gtagId = "G-56XC6V7DC6"
 
 # Syntax highlighting
