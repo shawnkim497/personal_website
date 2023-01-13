@@ -14,8 +14,7 @@ enableRobotsTXT = true
 # Google Analytics
 #googleAnalytics = "UA-123-45"
 
-[params]
-gtagId = "G-56XC6V7DC6"
+#[params]
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -53,6 +52,7 @@ images = []
 doNotLoadAnimations = false
 displayMode = "dark"
 contentratio = 0.75
+gtagId = "G-56XC6V7DC6"
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
