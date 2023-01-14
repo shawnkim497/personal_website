@@ -28,15 +28,14 @@ title = "Shawn Kim"
 #relativeURLs = true
 author = "Shawn Kim"
 description = """
-Seasoned Mariners & Seahawks connoisseur 
-Dinosaur enthusiast 
-Pokémon devotee 
-Butler of two cats 
 Political scientist
 Political psychologist
 REP researcher
+<strike>Dinosaur</strike> Paleontology enthusiast 
+Pokémon connoisseur 
+Butler of two cats
 """
-institute = "Ph.D. Candidate - Stony Brook Univeristy"
+institute = "Ph.D. Candidate - Stony Brook University"
 profilePicture = "images/profile.jpg" #"images/lu_su.jpg"
 #summary = "Example" #"seasoned Mariners and Seahawks connoisseur, Pokémon devotee, butler of two cats, political scientist"
 favicon = "images/lu_su.jpg"
