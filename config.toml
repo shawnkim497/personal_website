@@ -31,9 +31,7 @@ description = """
 Political scientist
 Political psychologist
 REP researcher
-<strike>Dinosaur</strike> Paleontology enthusiast 
-Pokémon connoisseur 
-Butler of two cats
+Paleontology enthusiast
 """
 institute = "Ph.D. Candidate - Stony Brook University"
 profilePicture = "images/profile.jpg" #"images/lu_su.jpg"
