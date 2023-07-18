@@ -72,6 +72,11 @@ icon = "fab fa-linkedin"
 title = "linkedin"
 url = "https://www.linkedin.com/in/shawn-suhwan-kim-4011b3a7/"
 
+[[params.socialIcons]]
+icon = "fab fa-orcid"
+title = "orcid"
+url = "https://orcid.org/0000-0001-5189-8680"
+
 #[[params.socialIcons]]
 #icon = "fab fa-github"
 #title = "GitHub"
